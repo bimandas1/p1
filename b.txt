@@ -1,6 +1,3 @@
-User 1
 Text B
-
-User 2
 
 User 2
